@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello.
+
+I am an MD learning to code......
